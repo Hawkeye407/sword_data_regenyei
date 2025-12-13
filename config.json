@@ -1,0 +1,922 @@
+{
+  "model": [
+    {
+      "model_id": "custom_feder",
+      "model_name": "Custom Feder",
+      "model_description": "Various forms and characteristics. Build your own feder from a vast variety of custom parts and customize it to perfectly match your style and gear. We recommend this product to those fencers or clubs whose knowledge is a bit more mature and who know exactly what they are looking for.",
+      "model_long_description": "",
+      "model_total_price": 266.2,
+      "model_price": 220,
+      "model_vat": 46.199999999999996,
+      "model_photo": "photos/custom_feder.png",
+      "model_visualization": "",
+      "label": ""
+    }
+  ],
+  "blade_length": [
+    {
+      "blade_length_id": 90,
+      "blade_length_name": 90,
+      "size": 90,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 91,
+      "blade_length_name": 91,
+      "size": 91,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 92,
+      "blade_length_name": 92,
+      "size": 92,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 93,
+      "blade_length_name": 93,
+      "size": 93,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 94,
+      "blade_length_name": 94,
+      "size": 94,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 95,
+      "blade_length_name": 95,
+      "size": 95,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 96,
+      "blade_length_name": 96,
+      "size": 96,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 97,
+      "blade_length_name": 97,
+      "size": 97,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 98,
+      "blade_length_name": 98,
+      "size": 98,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 99,
+      "blade_length_name": 99,
+      "size": 99,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 100,
+      "blade_length_name": 100,
+      "size": 100,
+      "tip_compatibility": "back_folded_tip, rounded_tip,spatulated_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 101,
+      "blade_length_name": 101,
+      "size": 101,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 102,
+      "blade_length_name": 102,
+      "size": 102,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 103,
+      "blade_length_name": 103,
+      "size": 103,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "label": ""
+    },
+    {
+      "blade_length_id": 104,
+      "blade_length_name": 104,
+      "size": 104,
+      "tip_compatibility": "back_folded_tip, rounded_tip,spatulated_tip",
+      "label": "recommended"
+    }
+  ],
+  "tip": [
+    {
+      "tip_id": "back_folded_tip",
+      "tip_name": "Back-Folded Tip",
+      "tip_description": "To this day, we consider this to be the safest type of tip. As far as we know, it is accepted in all tournament.",
+      "tip_long_desctiption": "",
+      "tip_total_price": 0,
+      "tip_price": 0,
+      "tip_vat": 0,
+      "tip_photo": "photos/back_folded_tip.png",
+      "tip_visualization": "visualization/vz_back_folded_tip.png",
+      "label": ""
+    },
+    {
+      "tip_id": "rounded_tip",
+      "tip_name": "Rounded Tip",
+      "tip_description": "The tip of the feder is simply rounded. Needs additional protection to use in free sparring. Not suitable for tournaments.",
+      "tip_long_desctiption": "",
+      "tip_total_price": 0,
+      "tip_price": 0,
+      "tip_vat": 0,
+      "tip_photo": "photos/rounded_tip.png",
+      "tip_visualization": "visualization/vz_rounded_tip.png",
+      "label": ""
+    },
+    {
+      "tip_id": "spatulated_tip",
+      "tip_name": "Spatulated Tip",
+      "tip_description": "New generation tip, opinions are divided, we only recommend it to those who know what they are looking for. Its acceptance in tournaments varies.",
+      "tip_long_desctiption": "",
+      "tip_total_price": 0,
+      "tip_price": 0,
+      "tip_vat": 0,
+      "tip_photo": "photos/spatulated_tip.png",
+      "tip_visualization": "visualization/vz_spatulated_tip.png",
+      "label": "recommended"
+    }
+  ],
+  "blade_flex": [
+    {
+      "blade_flex_id": "light",
+      "blade_flex_name": "light",
+      "flex_from": 7,
+      "flex_to": 9.5,
+      "label": ""
+    },
+    {
+      "blade_flex_id": "medium",
+      "blade_flex_name": "medium",
+      "flex_from": 11.5,
+      "flex_to": 13,
+      "label": "recommended"
+    },
+    {
+      "blade_flex_id": "strong",
+      "blade_flex_name": "strong",
+      "flex_from": 13.5,
+      "flex_to": 15,
+      "label": ""
+    }
+  ],
+  "schilt": [
+    {
+      "schilt_id": "wide",
+      "schilt_name": "Wide",
+      "schilt_description": "Our “Wide Feder” builds on the trusted foundation of our standard federschwerts, featuring a broader schilt designed with tournament performance in mind.",
+      "schilt_long_descschilttion": "",
+      "schilt_total_price": 0,
+      "schilt_price": 0,
+      "schilt_vat": 0,
+      "schilt_photo": "photos/wide.png",
+      "schilt_visualization": "visualization/vz_wide.png",
+      "label": "recommended"
+    },
+    {
+      "schilt_id": "italian",
+      "schilt_name": "Italian",
+      "schilt_description": "Our “Italian Feder” combines the trusted handling and durability of our federschwerts with a schilt design inspired by the graceful forms of Italian swords.",
+      "schilt_long_descschilttion": "",
+      "schilt_total_price": 0,
+      "schilt_price": 0,
+      "schilt_vat": 0,
+      "schilt_photo": "photos/italian.png",
+      "schilt_visualization": "visualization/vz_italian.png",
+      "label": ""
+    },
+    {
+      "schilt_id": "spiky",
+      "schilt_name": "Spiky",
+      "schilt_description": "Our Custom Spiky Feder takes the proven reliability of our Standard Feder and pairs it with a high level of personalization to suit your exact fencing preferences.",
+      "schilt_long_descschilttion": "",
+      "schilt_total_price": 0,
+      "schilt_price": 0,
+      "schilt_vat": 0,
+      "schilt_photo": "photos/spiky.png",
+      "schilt_visualization": "visualization/vz_spiky.png",
+      "label": ""
+    },
+    {
+      "schilt_id": "schiltless",
+      "schilt_name": "schiltless",
+      "schilt_description": "Our schiltless Feder is designed for fencers who prefer a cleaner, more minimalist blade profile — one that reflects earlier longsword forms and traditions.",
+      "schilt_long_descschilttion": "",
+      "schilt_total_price": 0,
+      "schilt_price": 0,
+      "schilt_vat": 0,
+      "schilt_photo": "photos/schiltless.png",
+      "schilt_visualization": "visualization/vz_schiltless.png",
+      "label": ""
+    }
+  ],
+  "crossguard": [
+    {
+      "crossguard_id": "standard",
+      "crossguard_name": "Standard",
+      "crossguard_description": "",
+      "crossguard_long_description": "",
+      "crossguard_total_price": 0,
+      "crossguard_price": 0,
+      "crossguard_vat": 0,
+      "crossguard_length_compatibility": "25, 28",
+      "crossguard_photo": "photos/standard.png",
+      "crossguard_visualization": "visualization/vz_standard.png",
+      "label": "recommended"
+    },
+    {
+      "crossguard_id": "twisted",
+      "crossguard_name": "Twisted",
+      "crossguard_description": "",
+      "crossguard_long_description": "",
+      "crossguard_total_price": 18.15,
+      "crossguard_price": 15,
+      "crossguard_vat": 3.15,
+      "crossguard_length_compatibility": "25, 28",
+      "crossguard_photo": "photos/twisted.png",
+      "crossguard_visualization": "visualization/vz_twisted.png",
+      "label": ""
+    },
+    {
+      "crossguard_id": "waved",
+      "crossguard_name": "Waved",
+      "crossguard_description": "",
+      "crossguard_long_description": "",
+      "crossguard_total_price": 18.15,
+      "crossguard_price": 15,
+      "crossguard_vat": 3.15,
+      "crossguard_length_compatibility": "25, 28",
+      "crossguard_photo": "photos/waved.png",
+      "crossguard_visualization": "visualization/vz_waved.png",
+      "label": ""
+    },
+    {
+      "crossguard_id": "cylindrical",
+      "crossguard_name": "Cylindrical",
+      "crossguard_description": "",
+      "crossguard_long_description": "",
+      "crossguard_total_price": 48.4,
+      "crossguard_price": 40,
+      "crossguard_vat": 8.4,
+      "crossguard_length_compatibility": "25, 28",
+      "crossguard_photo": "photos/cylindrical.png",
+      "crossguard_visualization": "visualization/vz_cylindrical.png",
+      "label": ""
+    }
+  ],
+  "crossguard_length": [
+    {
+      "crossguard_length_id": 25,
+      "crossguard_length_name": 25,
+      "size": 25,
+      "label": ""
+    },
+    {
+      "crossguard_length_id": 28,
+      "crossguard_length_name": 28,
+      "size": 28,
+      "label": "recommended"
+    }
+  ],
+  "crossguard_finish": [
+    {
+      "crossguard_finish_id": "polished",
+      "crossguard_finish_name": "Polished",
+      "crossguard_finish_description": "",
+      "crossguard_finish_long_description": "",
+      "crossguard_finish_total_price": 0,
+      "crossguard_finish_price": 0,
+      "crossguard_finish_vat": 0,
+      "crossguard_finish_hex": "",
+      "crossguard_compatibility": "standard, cylindrical",
+      "label": ""
+    },
+    {
+      "crossguard_finish_id": "dark",
+      "crossguard_finish_name": "Dark",
+      "crossguard_finish_description": "",
+      "crossguard_finish_long_description": "",
+      "crossguard_finish_total_price": 18.15,
+      "crossguard_finish_price": 15,
+      "crossguard_finish_vat": 3.15,
+      "crossguard_finish_hex": "#333333",
+      "crossguard_compatibility": "twisted, waved",
+      "label": ""
+    },
+    {
+      "crossguard_finish_id": "black",
+      "crossguard_finish_name": "Black",
+      "crossguard_finish_description": "",
+      "crossguard_finish_long_description": "",
+      "crossguard_finish_total_price": 30.25,
+      "crossguard_finish_price": 25,
+      "crossguard_finish_vat": 5.25,
+      "crossguard_finish_hex": "#000000",
+      "crossguard_compatibility": "standard, cylindrical, twisted, waved",
+      "label": ""
+    }
+  ],
+  "grip": [
+    {
+      "grip_id": "oval",
+      "grip_name": "Oval",
+      "grip_description": "",
+      "grip_long_description": "",
+      "grip_total_price": 0,
+      "grip_price": 0,
+      "grip_vat": 0,
+      "grip_photo": "photos/oval.png",
+      "grip_visualization": "visualization/vz_oval.png",
+      "label": ""
+    },
+    {
+      "grip_id": "octagonal_waisted",
+      "grip_name": "Octagonal Waisted",
+      "grip_description": "",
+      "grip_long_description": "",
+      "grip_total_price": 12.1,
+      "grip_price": 10,
+      "grip_vat": 2.1,
+      "grip_photo": "photos/octagonal_waisted.png",
+      "grip_visualization": "visualization/vz_octagonal_waisted.png",
+      "label": "recommended"
+    },
+    {
+      "grip_id": "rectangle_waisted",
+      "grip_name": "Rectangle Waisted",
+      "grip_description": "",
+      "grip_long_description": "",
+      "grip_total_price": 12.1,
+      "grip_price": 10,
+      "grip_vat": 2.1,
+      "grip_photo": "photos/rectangle_waisted.png",
+      "grip_visualization": "visualization/vz_rectangle_waisted.png",
+      "label": ""
+    }
+  ],
+  "grip_length": [
+    {
+      "grip_length_id": 28,
+      "grip_length_name": 28,
+      "size": 28,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 29,
+      "grip_length_name": 29,
+      "size": 29,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 30,
+      "grip_length_name": 30,
+      "size": 30,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 31,
+      "grip_length_name": 31,
+      "size": 31,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 32,
+      "grip_length_name": 32,
+      "size": 32,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 33,
+      "grip_length_name": 33,
+      "size": 33,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 34,
+      "grip_length_name": 34,
+      "size": 34,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": ""
+    },
+    {
+      "grip_length_id": 35,
+      "grip_length_name": 35,
+      "size": 35,
+      "tip_compatibility": "back_folded_tip, rounded_tip",
+      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "label": "recommended"
+    },
+    {
+      "grip_length_id": "spatulated_tip_32",
+      "grip_length_name": 32,
+      "size": 32,
+      "tip_compatibility": "spatulated_tip",
+      "blade_length_compatibility": 100,
+      "label": ""
+    },
+    {
+      "grip_length_id": "spatulated_tip_34",
+      "grip_length_name": 34,
+      "size": 34,
+      "tip_compatibility": "spatulated_tip",
+      "blade_length_compatibility": 104,
+      "label": "recommended"
+    }
+  ],
+  "grip_finish": [
+    {
+      "grip_finish_id": "cord",
+      "grip_finish_name": "Cord",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": 1,
+      "grip_finish_total_price": 0,
+      "grip_finish_price": 0,
+      "grip_finish_vat": 0,
+      "grip_finish_photo": "photos/cord.png",
+      "grip_finish_visualization": "visualization/vz_cord.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "double_cord",
+      "grip_finish_name": "Double cord",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": 2,
+      "grip_finish_total_price": 6.05,
+      "grip_finish_price": 5,
+      "grip_finish_vat": 1.05,
+      "grip_finish_photo": "photos/double_cord.png",
+      "grip_finish_visualization": "visualization/vz_double_cord.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "spiral_leather",
+      "grip_finish_name": "Spiral leather",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": 1,
+      "grip_finish_total_price": 12.1,
+      "grip_finish_price": 10,
+      "grip_finish_vat": 2.1,
+      "grip_finish_photo": "photos/spiral_leather.png",
+      "grip_finish_visualization": "visualization/vz_spiral_leather.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "double_spiral_leather",
+      "grip_finish_name": "Double spiral leather",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": 2,
+      "grip_finish_total_price": 30.25,
+      "grip_finish_price": 25,
+      "grip_finish_vat": 5.25,
+      "grip_finish_photo": "photos/double_spiral_leather.png",
+      "grip_finish_visualization": "visualization/vz_double_spiral_leather.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "wired_leather",
+      "grip_finish_name": "Wired leather",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": 1,
+      "grip_finish_total_price": 30.25,
+      "grip_finish_price": 25,
+      "grip_finish_vat": 5.25,
+      "grip_finish_photo": "photos/wired_leather.png",
+      "grip_finish_visualization": "visualization/vz_wired_leather.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "ribbed_leather",
+      "grip_finish_name": "Ribbed leather",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": 1,
+      "grip_finish_total_price": 36.3,
+      "grip_finish_price": 30,
+      "grip_finish_vat": 6.3,
+      "grip_finish_photo": "photos/ribbed_leather.png",
+      "grip_finish_visualization": "visualization/vz_ribbed_leather.png",
+      "label": ""
+    }
+  ],
+  "grip_color": [
+    {
+      "grip_color_id": "black",
+      "grip_color_name": "Black",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 0,
+      "grip_color_price": 0,
+      "grip_color_vat": 0,
+      "grip_color_hex": "#000000",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "natural",
+      "grip_color_name": "Natural",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#F5F5DC",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "dark_brown",
+      "grip_color_name": "Dark Brown",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#4B2E2A",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "light_brown",
+      "grip_color_name": "Light Brown",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#C1916B",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "dark_gray",
+      "grip_color_name": "Dark Gray",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#4A4A4A",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "light_gray",
+      "grip_color_name": "Light Gray",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#D3D3D3",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "dark_blue",
+      "grip_color_name": "Dark Blue",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#00008B",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "light_blue",
+      "grip_color_name": "Light Blue",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#ADD8E6",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "purple",
+      "grip_color_name": "Purple",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#800080",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "pink",
+      "grip_color_name": "Pink",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#FFC0CB",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "burgundy",
+      "grip_color_name": "Burgundy",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#800020",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "red",
+      "grip_color_name": "Red",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#FF0000",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "orange",
+      "grip_color_name": "Orange",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#FFA500",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "yellow",
+      "grip_color_name": "Yellow",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 6.05,
+      "grip_color_price": 5,
+      "grip_color_vat": 1.05,
+      "grip_color_hex": "#FFFF00",
+      "grip_finish_compatibility": "cord, double_cord",
+      "label": ""
+    },
+    {
+      "grip_color_id": "black_leather_ribbed",
+      "grip_color_name": "Black leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 0,
+      "grip_color_price": 0,
+      "grip_color_vat": 0,
+      "grip_color_hex": "#111111",
+      "grip_finish_compatibility": "ribbed_leather",
+      "label": ""
+    },
+    {
+      "grip_color_id": "brown_leather_ribbed",
+      "grip_color_name": "Brown leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 0,
+      "grip_color_price": 0,
+      "grip_color_vat": 0,
+      "grip_color_hex": "#8B4513",
+      "grip_finish_compatibility": "ribbed_leather",
+      "label": ""
+    },
+    {
+      "grip_color_id": "black_leather",
+      "grip_color_name": "Black leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 12.1,
+      "grip_color_price": 10,
+      "grip_color_vat": 2.1,
+      "grip_color_hex": "#111111",
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
+      "label": ""
+    },
+    {
+      "grip_color_id": "brown_leather",
+      "grip_color_name": "Brown leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 12.1,
+      "grip_color_price": 10,
+      "grip_color_vat": 2.1,
+      "grip_color_hex": "#8B4513",
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
+      "label": ""
+    },
+    {
+      "grip_color_id": "blue_leather",
+      "grip_color_name": "Blue leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 18.15,
+      "grip_color_price": 15,
+      "grip_color_vat": 3.15,
+      "grip_color_hex": "#003366",
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
+      "label": ""
+    },
+    {
+      "grip_color_id": "red_leather",
+      "grip_color_name": "Red leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 18.15,
+      "grip_color_price": 15,
+      "grip_color_vat": 3.15,
+      "grip_color_hex": "#8B0000",
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
+      "label": ""
+    },
+    {
+      "grip_color_id": "green_leather",
+      "grip_color_name": "Green leather",
+      "grip_color_description": "",
+      "grip_color_long_description": "",
+      "grip_color_total_price": 18.15,
+      "grip_color_price": 15,
+      "grip_color_vat": 3.15,
+      "grip_color_hex": "#006400",
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
+      "label": ""
+    }
+  ],
+  "pommel": [
+    {
+      "pommel_id": "pear",
+      "pommel_name": "Pear",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 0,
+      "pommel_price": 0,
+      "pommel_vat": 0,
+      "pommel_photo": "photos/pear.png",
+      "pommel_visualization": "visualization/vz_pear.png",
+      "label": ""
+    },
+    {
+      "pommel_id": "mushroom",
+      "pommel_name": "Mushroom",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 0,
+      "pommel_price": 0,
+      "pommel_vat": 0,
+      "pommel_photo": "photos/mushroom.png",
+      "pommel_visualization": "visualization/vz_mushroom.png",
+      "label": ""
+    },
+    {
+      "pommel_id": "sphere",
+      "pommel_name": "Sphere",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 6.05,
+      "pommel_price": 5,
+      "pommel_vat": 1.05,
+      "pommel_photo": "photos/sphere.png",
+      "pommel_visualization": "visualization/vz_sphere.png",
+      "label": ""
+    },
+    {
+      "pommel_id": "slim_pear",
+      "pommel_name": "Slim Pear",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 6.05,
+      "pommel_price": 5,
+      "pommel_vat": 1.05,
+      "pommel_photo": "photos/slim_pear.png",
+      "pommel_visualization": "visualization/vz_slim_pear.png",
+      "label": ""
+    },
+    {
+      "pommel_id": "parfume",
+      "pommel_name": "Parfume",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 24.2,
+      "pommel_price": 20,
+      "pommel_vat": 4.2,
+      "pommel_photo": "photos/parfume.png",
+      "pommel_visualization": "visualization/vz_parfume.png",
+      "label": "recommended"
+    },
+    {
+      "pommel_id": "faceted_mushroom",
+      "pommel_name": "Faceted Mushroom",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 42.35,
+      "pommel_price": 35,
+      "pommel_vat": 7.35,
+      "pommel_photo": "photos/faceted_mushroom.png",
+      "pommel_visualization": "visualization/vz_faceted_mushroom.png",
+      "label": ""
+    },
+    {
+      "pommel_id": "faceted_pear",
+      "pommel_name": "Faceted Pear",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": 360,
+      "pommel_total_price": 42.35,
+      "pommel_price": 35,
+      "pommel_vat": 7.35,
+      "pommel_photo": "photos/faceted_pear.png",
+      "pommel_visualization": "visualization/vz_faceted_pear.png",
+      "label": ""
+    }
+  ],
+  "pommel_finish": [
+    {
+      "pommel_finish_id": "polished",
+      "pommel_finish_name": "Polished",
+      "pommel_finish_description": "",
+      "pommel_finish_long_description": "",
+      "pommel_finish_total_price": 0,
+      "pommel_finish_price": 0,
+      "pommel_finish_vat": 0,
+      "pommel_finish_hex": "",
+      "label": ""
+    },
+    {
+      "pommel_finish_id": "burnt",
+      "pommel_finish_name": "Burnt",
+      "pommel_finish_description": "",
+      "pommel_finish_long_description": "",
+      "pommel_finish_total_price": 12.1,
+      "pommel_finish_price": 10,
+      "pommel_finish_vat": 2.1,
+      "pommel_finish_hex": "#333333",
+      "label": ""
+    },
+    {
+      "pommel_finish_id": "black",
+      "pommel_finish_name": "Black",
+      "pommel_finish_description": "",
+      "pommel_finish_long_description": "",
+      "pommel_finish_total_price": 24.2,
+      "pommel_finish_price": 20,
+      "pommel_finish_vat": 4.2,
+      "pommel_finish_hex": "#000000",
+      "label": ""
+    }
+  ]
+}
